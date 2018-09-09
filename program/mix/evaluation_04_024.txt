@@ -1,0 +1,59 @@
+                  badWeather            blizzard 0.255315 0.718813 0.376796
+                  badWeather             skating 0.531618 0.823401 0.646094
+                  badWeather            snowFall 0.515869 0.489243 0.502203
+                  badWeather             wetSnow 0.666191 0.525422 0.587492
+                    baseline             highway 0.854293 0.902918 0.877933
+                    baseline              office 0.973614 0.668636 0.792806
+                    baseline         pedestrians 0.943236 0.855737 0.897359
+                    baseline            PETS2006 0.978467 0.702915 0.818112
+                cameraJitter           badminton 0.961855 0.697972 0.808937
+                cameraJitter           boulevard 0.879252 0.501343 0.638575
+                cameraJitter            sidewalk 0.772419 0.489059 0.598914
+                cameraJitter             traffic 0.865601 0.728086 0.790911
+           dynamicBackground               boats 0.909119 0.310257 0.462631
+           dynamicBackground               canoe 0.964310 0.599737 0.739534
+           dynamicBackground                fall 0.905189 0.194012 0.319537
+           dynamicBackground          fountain01 0.820342 0.048559 0.091691
+           dynamicBackground          fountain02 0.951386 0.343520 0.504778
+           dynamicBackground            overpass 0.969917 0.408872 0.575247
+    intermittentObjectMotion        abandonedBox 0.985016 0.273095 0.427629
+    intermittentObjectMotion             parking 0.554858 0.369332 0.443474
+    intermittentObjectMotion                sofa 0.672689 0.647236 0.659717
+    intermittentObjectMotion         streetLight 0.362594 0.366421 0.364498
+    intermittentObjectMotion            tramstop 0.942894 0.305203 0.461141
+    intermittentObjectMotion      winterDriveway 0.788173 0.075837 0.138361
+                lowFramerate        port_0_17fps 0.826058 0.001159 0.002315
+                lowFramerate  tramCrossroad_1fps 0.868015 0.701525 0.775940
+                lowFramerate  tunnelExit_0_35fps 0.805204 0.237804 0.367171
+                lowFramerate     turnpike_0_5fps 0.862578 0.819044 0.840248
+                 nightVideos         bridgeEntry 0.895218 0.099404 0.178939
+                 nightVideos        busyBoulvard 0.668855 0.271625 0.386352
+                 nightVideos        fluidHighway 0.860696 0.122233 0.214065
+                 nightVideos streetCornerAtNight 0.827045 0.181469 0.297631
+                 nightVideos         tramStation 0.824709 0.356965 0.498263
+                 nightVideos        winterStreet 0.911136 0.202872 0.331854
+                         PTZ       continuousPan 0.659005 0.016627 0.032436
+                         PTZ     intermittentPan 0.645949 0.026047 0.050076
+                         PTZ   twoPositionPTZCam 0.833311 0.059815 0.111618
+                         PTZ       zoomInZoomOut 0.970115 0.004377 0.008714
+                      shadow            backdoor 0.919712 0.821049 0.867584
+                      shadow           bungalows 0.951722 0.953156 0.952438
+                      shadow          busStation 0.898662 0.817174 0.855983
+                      shadow         copyMachine 0.795348 0.624855 0.699868
+                      shadow             cubicle 0.968454 0.377315 0.543054
+                      shadow       peopleInShade 0.973438 0.805280 0.881410
+                     thermal            corridor 0.806090 0.672869 0.733479
+                     thermal          diningRoom 0.803069 0.759540 0.780698
+                     thermal            lakeSide 0.556168 0.534152 0.544938
+                     thermal             library 0.198858 0.840173 0.321598
+                     thermal                park 0.837070 0.624483 0.715316
+                  turbulence         turbulence0 0.941618 0.020409 0.039952
+                  turbulence         turbulence1 0.500899 0.044758 0.082173
+                  turbulence         turbulence2 0.946162 0.045800 0.087370
+                  turbulence         turbulence3 0.719252 0.529510 0.609966
+
+threshold_big = 0.5;
+threshold_sma = 0.2;
+threshold_range = 8;
+
+

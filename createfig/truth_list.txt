@@ -1,0 +1,16 @@
+~/dataset/dataset2014/dataset/baseline/highway/groundtruth/gt001419.png
+~/dataset/dataset2014/dataset/baseline/office/groundtruth/gt001088.png
+~/dataset/dataset2014/dataset/baseline/pedestrians/groundtruth/gt001021.png
+~/dataset/dataset2014/dataset/baseline/PETS2006/groundtruth/gt000700.png
+~/dataset/dataset2014/dataset/dynamicBackground/boats/groundtruth/gt007142.png
+~/dataset/dataset2014/dataset/dynamicBackground/canoe/groundtruth/gt000930.png
+~/dataset/dataset2014/dataset/dynamicBackground/fall/groundtruth/gt003982.png
+~/dataset/dataset2014/dataset/dynamicBackground/fountain01/groundtruth/gt000720.png
+~/dataset/dataset2014/dataset/dynamicBackground/fountain02/groundtruth/gt001270.png
+~/dataset/dataset2014/dataset/dynamicBackground/overpass/groundtruth/gt002339.png
+~/dataset/dataset2014/dataset/shadow/backdoor/groundtruth/gt001424.png
+~/dataset/dataset2014/dataset/shadow/bungalows/groundtruth/gt000850.png
+~/dataset/dataset2014/dataset/shadow/busStation/groundtruth/gt001026.png
+~/dataset/dataset2014/dataset/shadow/copyMachine/groundtruth/gt002097.png
+~/dataset/dataset2014/dataset/shadow/cubicle/groundtruth/gt001149.png
+~/dataset/dataset2014/dataset/shadow/peopleInShade/groundtruth/gt000364.png

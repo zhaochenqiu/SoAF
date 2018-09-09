@@ -1,0 +1,16 @@
+~/dataset/CDN_2014/baseline/highway/similar/in001419.png
+~/dataset/CDN_2014/baseline/office/similar/in001088.png
+~/dataset/CDN_2014/baseline/pedestrians/similar/in001021.png
+~/dataset/CDN_2014/baseline/PETS2006/similar/in000700.png
+~/dataset/CDN_2014/dynamicBackground/boats/similar/in007142.png
+~/dataset/CDN_2014/dynamicBackground/canoe/similar/in000930.png
+~/dataset/CDN_2014/dynamicBackground/fall/similar/in003982.png
+~/dataset/CDN_2014/dynamicBackground/fountain01/similar/in000720.png
+~/dataset/CDN_2014/dynamicBackground/fountain02/similar/in001270.png
+~/dataset/CDN_2014/dynamicBackground/overpass/similar/in002339.png
+~/dataset/CDN_2014/shadow/backdoor/similar/in001424.png
+~/dataset/CDN_2014/shadow/bungalows/similar/in000850.png
+~/dataset/CDN_2014/shadow/busStation/similar/in001026.png
+~/dataset/CDN_2014/shadow/copyMachine/similar/in002097.png
+~/dataset/CDN_2014/shadow/cubicle/similar/in001149.png
+~/dataset/CDN_2014/shadow/peopleInShade/similar/in000364.png

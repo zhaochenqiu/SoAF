@@ -1,0 +1,127 @@
+                  badWeather            blizzard   fm result1_158.txt 0.5368 result1_1.txt 0.4868 result2_1.txt 0.4399 result2_158.txt 0.4148
+                  badWeather             skating   fm result1_158.txt 0.6944 result1_258.txt 0.6589 result2_158.txt 0.6424 result1_1.txt 0.6411
+                  badWeather            snowFall   fm result2_158.txt 0.5314 result1_158.txt 0.4860 result2_1.txt 0.4854 result3_1.txt 0.4581
+                  badWeather             wetSnow   fm result1_258.txt 0.6306 result1_358.txt 0.6162 result2_258.txt 0.5902 result2_358.txt 0.5575
+                    baseline             highway   fm result1_258.txt 0.8813 result1_358.txt 0.8799 result1_158.txt 0.8654 result2_258.txt 0.8639
+                    baseline              office   fm result3_358.txt 0.8974 result3_458.txt 0.8961 result3_3.txt 0.8944 result2_458.txt 0.8909
+                    baseline         pedestrians   fm result3_1.txt 0.9070 result2_258.txt 0.9068 result2_158.txt 0.9036 result2_15.txt 0.9006
+                    baseline            PETS2006   fm result2_4.txt 0.9338 result2_45.txt 0.9323 result1_45.txt 0.9322 result2_35.txt 0.9316
+                cameraJitter           badminton   fm result3_358.txt 0.8643 result2_358.txt 0.8560 result3_258.txt 0.8551 result3_25.txt 0.8484
+                cameraJitter           boulevard   fm result2_458.txt 0.7017 result2_358.txt 0.6942 result2_25.txt 0.6908 result2_558.txt 0.6891
+                cameraJitter            sidewalk   fm result1_558.txt 0.7341 result2_558.txt 0.7224 result2_458.txt 0.7089 result2_3.txt 0.6986
+                cameraJitter             traffic   fm result2_358.txt 0.8090 result2_258.txt 0.8031 result1_358.txt 0.8004 result2_158.txt 0.7936
+           dynamicBackground               boats   fm result2_558.txt 0.8061 result2_458.txt 0.8053 result3_3.txt 0.7982 result2_358.txt 0.7949
+           dynamicBackground               canoe   fm result2_558.txt 0.9183 result3_458.txt 0.9110 result2_458.txt 0.9109 result2_45.txt 0.9043
+           dynamicBackground                fall   fm result2_558.txt 0.5765 result1_558.txt 0.5599 result3_35.txt 0.5029 result3_458.txt 0.4885
+           dynamicBackground          fountain01   fm result3_45.txt 0.2443 result2_45.txt 0.2388 result3_4.txt 0.2385 result2_4.txt 0.2324
+           dynamicBackground          fountain02   fm result2_458.txt 0.8812 result2_558.txt 0.8740 result3_458.txt 0.8730 result1_558.txt 0.8671
+           dynamicBackground            overpass   fm result2_458.txt 0.8154 result3_458.txt 0.8124 result2_558.txt 0.8036 result3_358.txt 0.7952
+    intermittentObjectMotion        abandonedBox   fm result3_3.txt 0.5351 result3_35.txt 0.5332 result3_25.txt 0.5314 result3_458.txt 0.5314
+    intermittentObjectMotion             parking   fm result1_3.txt 0.6669 result1_2.txt 0.6131 result1_358.txt 0.6102 result1_25.txt 0.5986
+    intermittentObjectMotion                sofa   fm result1_2.txt 0.6840 result1_25.txt 0.6811 result2_2.txt 0.6788 result1_3.txt 0.6739
+    intermittentObjectMotion         streetLight   fm result1_1.txt 0.3951 result2_1.txt 0.3951 result1_158.txt 0.3898 result2_158.txt 0.3802
+    intermittentObjectMotion            tramstop   fm result2_2.txt 0.4735 result1_25.txt 0.4725 result2_25.txt 0.4677 result1_15.txt 0.4672
+    intermittentObjectMotion      winterDriveway   fm result1_558.txt 0.3656 result2_558.txt 0.3546 result1_5.txt 0.2759 result2_5.txt 0.2728
+                lowFramerate        port_0_17fps   fm result3_55.txt 0.0775 result2_55.txt 0.0716 result1_55.txt 0.0663 result3_5.txt 0.0494
+                lowFramerate  tramCrossroad_1fps   fm result1_2.txt 0.7961 result1_15.txt 0.7914 result2_2.txt 0.7873 result2_1.txt 0.7868
+                lowFramerate  tunnelExit_0_35fps   fm result2_458.txt 0.4875 result1_458.txt 0.4806 result1_35.txt 0.4775 result2_3.txt 0.4747
+                lowFramerate     turnpike_0_5fps   fm result1_2.txt 0.8595 result1_1.txt 0.8579 result2_1.txt 0.8458 result2_2.txt 0.8447
+                 nightVideos         bridgeEntry   fm result1_25.txt 0.2304 result1_558.txt 0.2303 result2_25.txt 0.2295 result2_558.txt 0.2268
+                 nightVideos        busyBoulvard   fm result1_558.txt 0.4565 result1_358.txt 0.4563 result1_3.txt 0.4547 result2_358.txt 0.4515
+                 nightVideos        fluidHighway   fm result2_35.txt 0.2787 result3_35.txt 0.2785 result1_35.txt 0.2764 result2_558.txt 0.2747
+                 nightVideos streetCornerAtNight   fm result3_15.txt 0.3945 result1_2.txt 0.3824 result3_25.txt 0.3700 result3_2.txt 0.3691
+                 nightVideos         tramStation   fm result1_25.txt 0.5698 result2_25.txt 0.5625 result2_258.txt 0.5531 result2_358.txt 0.5494
+                 nightVideos        winterStreet   fm result2_45.txt 0.4373 result1_45.txt 0.4370 result3_45.txt 0.4325 result2_458.txt 0.4277
+                         PTZ       continuousPan   fm result3_55.txt 0.0851 result2_55.txt 0.0831 result1_55.txt 0.0821 result2_558.txt 0.0782
+                         PTZ     intermittentPan   fm result1_55.txt 0.1893 result2_55.txt 0.1823 result3_55.txt 0.1739 result1_558.txt 0.1701
+                         PTZ   twoPositionPTZCam   fm result2_458.txt 0.4260 result1_558.txt 0.4170 result3_458.txt 0.4152 result1_458.txt 0.4150
+                         PTZ       zoomInZoomOut   fm result3_55.txt 0.1411 result2_55.txt 0.1389 result1_55.txt 0.1365 result2_558.txt 0.0848
+                      shadow            backdoor   fm result1_358.txt 0.9025 result1_25.txt 0.8990 result1_3.txt 0.8910 result1_258.txt 0.8905
+                      shadow           bungalows   fm result1_258.txt 0.9543 result1_358.txt 0.9523 result1_158.txt 0.9522 result1_15.txt 0.9508
+                      shadow          busStation   fm result1_358.txt 0.8823 result1_458.txt 0.8749 result1_25.txt 0.8704 result2_358.txt 0.8688
+                      shadow         copyMachine   fm result1_358.txt 0.7473 result1_458.txt 0.7442 result1_3.txt 0.7418 result1_25.txt 0.7372
+                      shadow             cubicle   fm result3_458.txt 0.8039 result3_358.txt 0.7910 result2_458.txt 0.7903 result3_3.txt 0.7861
+                      shadow       peopleInShade   fm result2_458.txt 0.9393 result1_458.txt 0.9332 result1_35.txt 0.9329 result2_35.txt 0.9326
+                     thermal            corridor   fm result1_158.txt 0.7389 result1_1.txt 0.7322 result2_1.txt 0.7312 result2_158.txt 0.7139
+                     thermal          diningRoom   fm result1_158.txt 0.8002 result1_1.txt 0.7985 result1_15.txt 0.7955 result2_1.txt 0.7732
+                     thermal            lakeSide   fm result1_158.txt 0.6400 result1_1.txt 0.5869 result2_158.txt 0.5863 result1_15.txt 0.5850
+                     thermal             library   fm result1_1.txt 0.5589 result1_158.txt 0.5307 result2_1.txt 0.4666 result2_158.txt 0.4113
+                     thermal                park   fm result1_2.txt 0.7575 result1_15.txt 0.7455 result1_1.txt 0.7447 result2_2.txt 0.7363
+                  turbulence         turbulence0   fm result3_25.txt 0.1822 result3_258.txt 0.1402 result2_25.txt 0.1155 result1_25.txt 0.0998
+                  turbulence         turbulence1   fm result1_558.txt 0.1540 result2_558.txt 0.1431 result3_15.txt 0.1365 result3_258.txt 0.1361
+                  turbulence         turbulence2   fm result3_3.txt 0.4628 result3_25.txt 0.3935 result2_3.txt 0.3530 result3_258.txt 0.3471
+                  turbulence         turbulence3   fm result1_458.txt 0.6553 result1_558.txt 0.6477 result1_358.txt 0.6456 result3_15.txt 0.6417
+
+
+
+baseline             highway   fm result1_258.txt 0.8813 result1_358.txt 0.8799 result1_158.txt 0.8654 result2_258.txt 0.8639
+                    baseline              office   fm result3_3.txt 0.8944 result2_458.txt 0.8909 result2_35.txt 0.8898 result3_35.txt 0.8877
+                    baseline         pedestrians   fm result3_1.txt 0.9070 result2_258.txt 0.9068 result2_158.txt 0.9036 result2_15.txt 0.9006
+                    baseline            PETS2006   fm result2_4.txt 0.9338 result2_45.txt 0.9323 result1_45.txt 0.9322 result2_35.txt 0.9316
+           dynamicBackground               boats   fm result2_558.txt 0.8061 result2_458.txt 0.8053 result3_3.txt 0.7982 result2_358.txt 0.7949
+           dynamicBackground               canoe   fm result2_558.txt 0.9183 result2_458.txt 0.9109 result2_45.txt 0.9043 result3_5.txt 0.9034
+           dynamicBackground                fall   fm result2_558.txt 0.5765 result1_558.txt 0.5599 result3_35.txt 0.5029 result1_55.txt 0.4872
+           dynamicBackground          fountain01   fm result3_45.txt 0.2443 result2_45.txt 0.2388 result3_4.txt 0.2385 result2_4.txt 0.2324
+           dynamicBackground          fountain02   fm result2_458.txt 0.8812 result2_558.txt 0.8740 result1_558.txt 0.8671 result2_4.txt 0.8668
+           dynamicBackground            overpass   fm result2_458.txt 0.8154 result2_558.txt 0.8036 result3_25.txt 0.7935 result3_3.txt 0.7921
+                      shadow            backdoor   fm result1_358.txt 0.9025 result1_25.txt 0.8990 result1_3.txt 0.8910 result1_258.txt 0.8905
+                      shadow           bungalows   fm result1_258.txt 0.9543 result1_358.txt 0.9523 result1_158.txt 0.9522 result1_15.txt 0.9508
+                      shadow          busStation   fm result1_358.txt 0.8823 result1_458.txt 0.8749 result1_25.txt 0.8704 result2_358.txt 0.8688
+                      shadow         copyMachine   fm result1_358.txt 0.7473 result1_458.txt 0.7442 result1_3.txt 0.7418 result1_25.txt 0.7372
+                      shadow             cubicle   fm result2_458.txt 0.7903 result3_3.txt 0.7861 result3_35.txt 0.7835 result3_4.txt 0.7823
+                      shadow       peopleInShade   fm result2_458.txt 0.9393 result1_458.txt 0.9332 result1_35.txt 0.9329 result2_35.txt 0.9326
+                     thermal            corridor   fm result1_158.txt 0.7389 result1_1.txt 0.7322 result2_1.txt 0.7312 result2_158.txt 0.7139
+                     thermal          diningRoom   fm result1_158.txt 0.8002 result1_1.txt 0.7985 result1_15.txt 0.7955 result2_1.txt 0.7732
+                     thermal            lakeSide   fm result1_158.txt 0.6400 result1_1.txt 0.5869 result2_158.txt 0.5863 result1_15.txt 0.5850
+                     thermal             library   fm result1_1.txt 0.5589 result1_158.txt 0.5307 result2_1.txt 0.4666 result2_158.txt 0.4113
+                     thermal                park   fm result1_2.txt 0.7575 result1_15.txt 0.7455 result1_1.txt 0.7447 result2_2.txt 0.7363
+
+
+
+
+
+                    baseline             highway   fm result2_1.txt 0.8632 result1_15.txt 0.8605 result1_1.txt 0.8565 result1_2.txt 0.8549
+                    baseline              office   fm result3_3.txt 0.8944 result2_35.txt 0.8898 result3_35.txt 0.8877 result3_25.txt 0.8876
+                    baseline         pedestrians   fm result3_1.txt 0.9070 result2_15.txt 0.9006 result2_1.txt 0.8986 result3_2.txt 0.8963
+                    baseline            PETS2006   fm result2_4.txt 0.9338 result2_45.txt 0.9323 result1_45.txt 0.9322 result2_35.txt 0.9316
+           dynamicBackground               boats   fm result3_3.txt 0.7982 result3_4.txt 0.7853 result2_35.txt 0.7821 result2_4.txt 0.7670
+           dynamicBackground               canoe   fm result2_45.txt 0.9043 result3_5.txt 0.9034 result3_45.txt 0.9028 result2_55.txt 0.9024
+           dynamicBackground                fall   fm result3_35.txt 0.5029 result1_55.txt 0.4872 result2_55.txt 0.4871 result3_55.txt 0.4866
+           dynamicBackground          fountain01   fm result3_45.txt 0.2443 result2_45.txt 0.2388 result3_4.txt 0.2385 result2_4.txt 0.2324
+           dynamicBackground          fountain02   fm result2_4.txt 0.8668 result3_4.txt 0.8643 result1_45.txt 0.8636 result2_45.txt 0.8625
+           dynamicBackground            overpass   fm result3_25.txt 0.7935 result3_3.txt 0.7921 result2_25.txt 0.7738 result3_2.txt 0.7665
+                      shadow            backdoor   fm result1_25.txt 0.8990 result1_3.txt 0.8910 result1_2.txt 0.8852 result2_2.txt 0.8843
+                      shadow           bungalows   fm result1_15.txt 0.9508 result2_1.txt 0.9501 result2_2.txt 0.9482 result1_25.txt 0.9480
+                      shadow          busStation   fm result1_25.txt 0.8704 result2_2.txt 0.8645 result1_3.txt 0.8633 result2_3.txt 0.8616
+                      shadow         copyMachine   fm result1_3.txt 0.7418 result1_25.txt 0.7372 result2_3.txt 0.7334 result1_2.txt 0.7294
+                      shadow             cubicle   fm result3_3.txt 0.7861 result3_35.txt 0.7835 result3_4.txt 0.7823 result2_35.txt 0.7807
+                      shadow       peopleInShade   fm result1_35.txt 0.9329 result2_35.txt 0.9326 result1_4.txt 0.9320 result2_4.txt 0.9317
+                     thermal            corridor   fm result1_1.txt 0.7322 result2_1.txt 0.7312 result1_15.txt 0.6928 result2_15.txt 0.6649
+                     thermal          diningRoom   fm result1_1.txt 0.7985 result1_15.txt 0.7955 result2_1.txt 0.7732 result1_2.txt 0.7532
+                     thermal            lakeSide   fm result1_1.txt 0.5869 result1_15.txt 0.5850 result2_1.txt 0.5733 result2_15.txt 0.5432
+                     thermal             library   fm result1_1.txt 0.5589 result2_1.txt 0.4666 result3_1.txt 0.3684 result1_15.txt 0.3649
+                     thermal                park   fm result1_2.txt 0.7575 result1_15.txt 0.7455 result1_1.txt 0.7447 result2_2.txt 0.7363
+
+
+                    baseline             highway   fm result2_1.txt 0.8632 result1_15.txt 0.8605 result1_1.txt 0.8565 result1_2.txt 0.8549
+                    baseline              office   fm result3_3.txt 0.8944 result2_3.txt 0.8866 result2_25.txt 0.8813 result1_35.txt 0.8803 X
+                    baseline         pedestrians   fm result3_1.txt 0.9070 result2_15.txt 0.9006 result2_1.txt 0.8986 result3_2.txt 0.8963
+                    baseline            PETS2006   fm result2_4.txt 0.9338 result1_45.txt 0.9322 result3_4.txt 0.9301 result2_5.txt 0.9269 X
+           dynamicBackground               boats   fm result3_3.txt 0.7982 result3_4.txt 0.7853 result2_4.txt 0.7670 result1_35.txt 0.7603
+           dynamicBackground               canoe   fm result3_5.txt 0.9034 result3_4.txt 0.9017 result2_5.txt 0.8979 result2_4.txt 0.8955 I
+           dynamicBackground                fall   fm result1_55.txt 0.4872 result3_3.txt 0.4789 result3_5.txt 0.4721 result3_4.txt 0.4716 
+           dynamicBackground          fountain01   fm result3_4.txt 0.2385 result2_4.txt 0.2324 result3_5.txt 0.2311 result1_45.txt 0.2290 
+           dynamicBackground          fountain02   fm result2_4.txt 0.8668 result3_4.txt 0.8643 result1_45.txt 0.8636 result1_4.txt 0.8562 X
+           dynamicBackground            overpass   fm result3_3.txt 0.7921 result2_25.txt 0.7738 result3_2.txt 0.7665 result2_3.txt 0.7523 
+                      shadow            backdoor   fm result1_25.txt 0.8990 result1_3.txt 0.8910 result1_2.txt 0.8852 result2_2.txt 0.8843 X
+                      shadow           bungalows   fm result1_15.txt 0.9508 result2_1.txt 0.9501 result2_2.txt 0.9482 result1_25.txt 0.9480 X
+                      shadow          busStation   fm result1_25.txt 0.8704 result2_2.txt 0.8645 result1_3.txt 0.8633 result2_3.txt 0.8616 X
+                      shadow         copyMachine   fm result1_3.txt 0.7418 result1_25.txt 0.7372 result2_3.txt 0.7334 result1_2.txt 0.7294 
+                      shadow             cubicle   fm result3_3.txt 0.7861 result3_4.txt 0.7823 result2_4.txt 0.7759 result1_4.txt 0.7626 
+                      shadow       peopleInShade   fm result1_35.txt 0.9329 result1_4.txt 0.9320 result2_4.txt 0.9317 result2_3.txt 0.9296 X
+                     thermal            corridor   fm result1_1.txt 0.7322 result2_1.txt 0.7312 result1_15.txt 0.6928 result2_15.txt 0.6649
+                     thermal          diningRoom   fm result1_1.txt 0.7985 result1_15.txt 0.7955 result2_1.txt 0.7732 result1_2.txt 0.7532 X
+                     thermal            lakeSide   fm result1_1.txt 0.5869 result1_15.txt 0.5850 result2_1.txt 0.5733 result2_15.txt 0.5432 X
+                     thermal             library   fm result1_1.txt 0.5589 result2_1.txt 0.4666 result3_1.txt 0.3684 result1_15.txt 0.3649
+                     thermal                park   fm result1_2.txt 0.7575 result1_15.txt 0.7455 result1_1.txt 0.7447 result2_2.txt 0.7363 X
+ 
